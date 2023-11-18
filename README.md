@@ -10,6 +10,5 @@ Key Highlights:
 
 POWERBI
 PBIX file Link : https://drive.google.com/file/d/1BdNcL5EOFHdDiW8YXqegkH0urJO404wd/view?usp=drive_link
-PDF Link : https://drive.google.com/file/d/1zlBo824gLf7TkrHtV4PAGw6e0GdHO6lX/view?usp=drive_link
 
-SQL
+PDF Link : https://drive.google.com/file/d/1zlBo824gLf7TkrHtV4PAGw6e0GdHO6lX/view?usp=drive_link
