@@ -5,7 +5,7 @@ Completed this Project as a Part of my Internship with United Network of Profess
 Key Highlights:
 
 
-1. In this project, I analyzed Diabetes Contributor for Pregnant Women using the Diabetes dataset.
+1. In this project, I analyzed Diabetes Contributor amongst Pregnant Women using the Diabetes dataset.
 2. Significantly enhanced data visualization and user-friendliness.
 3. Contributed to the Development of Intricate KPIs and Dynamic, Interactive Power BI interfaces.
 4. Collaborated with Stakeholders to understand their requirements and translated them into effective Power BI Solutions.
